@@ -63,7 +63,7 @@ class Repeater<T> {
       _sourceSubscription = null;
 
       if (_onCancel != null) {
-        await _onCancel!();
+        await _onCancel();
       }
     }
   }

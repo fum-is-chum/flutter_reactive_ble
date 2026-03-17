@@ -1,5 +1,5 @@
 #import "ReactiveBlePlugin.h"
-#import <reactive_ble_mobile/reactive_ble_mobile-Swift.h>
+#import <scallop_reactive_ble_mobile/scallop_reactive_ble_mobile-Swift.h>
 
 @implementation ReactiveBlePlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {

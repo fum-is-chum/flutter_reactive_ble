@@ -1,6 +1,6 @@
 import 'package:collection/collection.dart';
 import 'package:functional_data/functional_data.dart';
-import 'package:reactive_ble_platform_interface/src/model/discovered_characteristic.dart';
+import 'package:scallop_reactive_ble_platform_interface/src/model/discovered_characteristic.dart';
 
 import 'uuid.dart';
 

@@ -1,3 +1,10 @@
+## 5.4.1
+
+* Rename package to `scallop_reactive_ble_platform_interface`.
+* Add fork attribution and downstream package metadata for publishing.
+* Preserve credit to original `flutter_reactive_ble` authors and BSD license.
+* Keep version lineage from upstream `5.4.0`.
+
 ## 5.4.0
 
 * Support for MacOS #889

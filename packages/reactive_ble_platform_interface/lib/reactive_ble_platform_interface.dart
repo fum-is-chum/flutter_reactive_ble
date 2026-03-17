@@ -1,4 +1,4 @@
-library reactive_ble_platform_interface;
+library scallop_reactive_ble_platform_interface;
 
 export 'src/logger.dart';
 export 'src/models.dart';

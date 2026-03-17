@@ -1,3 +1,7 @@
+## 6.0.1
+
+* Patch version bump for all packages.
+
 ## 6.0.0 - 2026-03-17
 
 ### Changed

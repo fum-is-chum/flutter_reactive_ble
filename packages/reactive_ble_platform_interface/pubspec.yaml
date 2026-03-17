@@ -1,6 +1,6 @@
 name: scallop_reactive_ble_platform_interface
 description: Scallop-maintained fork of flutter_reactive_ble platform interface with downstream SDK and Flutter updates.
-version: 6.0.0
+version: 6.0.1
 homepage: https://github.com/fum-is-chum/flutter_reactive_ble
 repository: https://github.com/fum-is-chum/flutter_reactive_ble
 documentation: https://github.com/fum-is-chum/flutter_reactive_ble/tree/master/packages/reactive_ble_platform_interface

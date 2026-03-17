@@ -1,3 +1,7 @@
+## 6.0.1
+
+* Patch version bump for all packages.
+
 ## 6.0.0
 
 * Keep package version aligned with `reactive_ble_mobile`.

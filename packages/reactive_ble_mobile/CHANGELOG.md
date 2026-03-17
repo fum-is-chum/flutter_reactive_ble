@@ -1,3 +1,8 @@
+## 6.0.2 - 2026-03-18
+
+### Fixed
+- Fix Swift bridging header import to use renamed module name `scallop_reactive_ble_mobile` ([498e29a](https://github.com/fum-is-chum/flutter_reactive_ble/commit/498e29a64fbfd28696063bfa19df2acdd41c9d2e))
+
 ## 6.0.1
 
 * Patch version bump for all packages.

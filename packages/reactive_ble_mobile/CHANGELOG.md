@@ -1,3 +1,8 @@
+## 6.0.0 - 2026-03-17
+
+### Changed
+- Rename podspec from `reactive_ble_mobile` to `scallop_reactive_ble_mobile` and update homepage/author to Scallop Labs ([0c4c89e](https://github.com/fum-is-chum/flutter_reactive_ble/commit/0c4c89e512fd80017760539c972264dc9c164e38))
+
 ## 5.4.1
 
 * Keep package version aligned with `reactive_ble_platform_interface`.

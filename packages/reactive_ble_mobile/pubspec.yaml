@@ -1,6 +1,6 @@
 name: scallop_reactive_ble_mobile
 description: Official Android and iOS implementation for the flutter_reactive_ble plugin.
-version: 5.4.1
+version: 6.0.0
 homepage: https://github.com/fum-is-chum/flutter_reactive_ble
 repository: https://github.com/fum-is-chum/flutter_reactive_ble
 documentation: https://github.com/fum-is-chum/flutter_reactive_ble/tree/master/packages/reactive_ble_mobile
@@ -21,10 +21,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   mockito: ^5.4.0
-
-dependency_overrides:
-  scallop_reactive_ble_platform_interface:
-    path: ../reactive_ble_platform_interface
 
 flutter:
   plugin:

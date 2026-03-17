@@ -433,7 +433,7 @@ packages:
       path: "../reactive_ble_mobile"
       relative: true
     source: path
-    version: "5.4.1"
+    version: "6.0.0"
   scallop_reactive_ble_platform_interface:
     dependency: "direct main"
     description:

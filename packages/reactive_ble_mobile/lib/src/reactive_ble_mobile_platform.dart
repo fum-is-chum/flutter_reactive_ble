@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 import 'converter/args_to_protubuf_converter.dart';
 import 'converter/protobuf_converter.dart';

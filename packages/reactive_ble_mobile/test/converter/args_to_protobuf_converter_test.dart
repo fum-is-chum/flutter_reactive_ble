@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart';
-import 'package:reactive_ble_mobile/src/generated/bledata.pb.dart' as pb;
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart';
+import 'package:scallop_reactive_ble_mobile/src/generated/bledata.pb.dart' as pb;
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 void main() {
   group('$ArgsToProtobufConverter', () {

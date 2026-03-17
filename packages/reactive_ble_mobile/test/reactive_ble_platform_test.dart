@@ -4,11 +4,11 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
-import 'package:reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart';
-import 'package:reactive_ble_mobile/src/converter/protobuf_converter.dart';
-import 'package:reactive_ble_mobile/src/generated/bledata.pb.dart' as pb;
-import 'package:reactive_ble_mobile/src/reactive_ble_mobile_platform.dart';
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart';
+import 'package:scallop_reactive_ble_mobile/src/converter/protobuf_converter.dart';
+import 'package:scallop_reactive_ble_mobile/src/generated/bledata.pb.dart' as pb;
+import 'package:scallop_reactive_ble_mobile/src/reactive_ble_mobile_platform.dart';
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 import 'reactive_ble_platform_test.mocks.dart';
 

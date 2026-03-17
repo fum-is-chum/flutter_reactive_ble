@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 import '../generated/bledata.pb.dart' as pb;
 import '../select_from.dart';

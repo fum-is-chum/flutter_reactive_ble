@@ -10,12 +10,12 @@ import 'package:flutter/src/services/message_codec.dart' as _i4;
 import 'package:flutter/src/services/platform_channel.dart' as _i8;
 import 'package:mockito/mockito.dart' as _i1;
 import 'package:mockito/src/dummies.dart' as _i9;
-import 'package:reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart'
+import 'package:scallop_reactive_ble_mobile/src/converter/args_to_protubuf_converter.dart'
     as _i6;
-import 'package:reactive_ble_mobile/src/converter/protobuf_converter.dart'
+import 'package:scallop_reactive_ble_mobile/src/converter/protobuf_converter.dart'
     as _i7;
-import 'package:reactive_ble_mobile/src/generated/bledata.pb.dart' as _i2;
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart'
+import 'package:scallop_reactive_ble_mobile/src/generated/bledata.pb.dart' as _i2;
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart'
     as _i3;
 
 // ignore_for_file: type=lint

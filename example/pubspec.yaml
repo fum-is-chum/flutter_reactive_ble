@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_reactive_ble: ^5.4.0
+  scallop_flutter_reactive_ble: ^5.4.1
   functional_data: ^1.0.0
   intl: ^0.17.0
 
@@ -25,11 +25,11 @@ dev_dependencies:
   functional_data_generator: ^1.1.2
 
 dependency_overrides:
-  flutter_reactive_ble:
+  scallop_flutter_reactive_ble:
     path: ../packages/flutter_reactive_ble
-  reactive_ble_mobile:
+  scallop_reactive_ble_mobile:
     path: ../packages/reactive_ble_mobile
-  reactive_ble_platform_interface:
+  scallop_reactive_ble_platform_interface:
     path: ../packages/reactive_ble_platform_interface
 
 flutter:

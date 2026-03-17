@@ -3,7 +3,7 @@ description: Reactive Bluetooth Low Energy (BLE) plugin that can communicate wit
 version: 5.4.1
 homepage: https://github.com/fum-is-chum/flutter_reactive_ble
 repository: https://github.com/fum-is-chum/flutter_reactive_ble
-documentation: https://github.com/fum-is-chum/flutter_reactive_ble/tree/master/packages/flutter_reactive_ble
+documentation: https://github.com/fum-is-chum/flutter_reactive_ble
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
@@ -13,9 +13,9 @@ flutter:
   plugin:
     platforms:
       android:
-        default_package: reactive_ble_mobile
+        default_package: scallop_reactive_ble_mobile
       ios:
-        default_package: reactive_ble_mobile
+        default_package: scallop_reactive_ble_mobile
 
 dependencies:
   collection: ^1.15.0

@@ -9,6 +9,14 @@ scripts:
 
   get: melos exec -- flutter pub get
 
+  publish:dry-run:
+    run: ./bin/publish_packages.sh --dry-run
+    description: Dry-run publish all packages in dependency order.
+
+  publish:
+    run: ./bin/publish_packages.sh --publish
+    description: Publish all packages in dependency order.
+
   upgrade: melos exec -- flutter packages upgrade
 
   unittest: 

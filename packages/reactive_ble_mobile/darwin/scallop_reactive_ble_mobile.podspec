@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
-  s.name             = 'reactive_ble_mobile'
+  s.name             = 'scallop_reactive_ble_mobile'
   s.version          = '0.0.1'
   s.summary          = 'Bluetooth Low Energy (BLE) Flutter plug-in'
   s.description      = <<-DESC
 Bluetooth Low Energy (BLE) Flutter plug-in
                        DESC
-  s.homepage         = 'https://github.com/PhilipsHue/flutter_reactive_ble'
+  s.homepage         = 'https://github.com/fum-is-chum/flutter_reactive_ble'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'Scallop Labs' => 'alvin@scallop.io' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'

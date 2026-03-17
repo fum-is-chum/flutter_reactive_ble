@@ -13,7 +13,7 @@ class Result<Value, Failure> {
 
   /// Provides the value in case of success or throws [Exception] in case of failure.
   Value dematerialize() => iif(
-        success: (value) => value!,
+        success: (value) => value,
         failure: (failure) {
           if (failure is Exception) {
             // ignore: only_throw_errors
@@ -31,9 +31,9 @@ class Result<Value, Failure> {
     assert(_value == null || _failure == null);
 
     if (_failure != null) {
-      return failure(_failure!);
+      return failure(_failure);
     } else if (_value != null) {
-      return success(_value!);
+      return success(_value);
     } else {
       throw Exception('Both value and failure cannot be null');
     }

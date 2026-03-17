@@ -1,5 +1,5 @@
-import 'package:scallop_flutter_reactive_ble/flutter_reactive_ble.dart';
 import 'package:meta/meta.dart';
+import 'package:scallop_flutter_reactive_ble/flutter_reactive_ble.dart';
 import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 abstract class ConnectedDeviceOperation {

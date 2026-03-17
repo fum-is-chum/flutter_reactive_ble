@@ -1,3 +1,7 @@
+## 6.0.0
+
+* Keep package version aligned with `reactive_ble_mobile`.
+
 ## 5.4.1
 
 * Rename package to `scallop_reactive_ble_platform_interface`.

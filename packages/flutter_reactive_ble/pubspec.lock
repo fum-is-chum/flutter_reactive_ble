@@ -430,16 +430,18 @@ packages:
   scallop_reactive_ble_mobile:
     dependency: "direct main"
     description:
-      path: "../reactive_ble_mobile"
-      relative: true
-    source: path
+      name: scallop_reactive_ble_mobile
+      sha256: e52ac2a86b5a42433a3396eff7af3f043076ab2a735deea8f141bbd62902ebfb
+      url: "https://pub.dev"
+    source: hosted
     version: "6.0.0"
   scallop_reactive_ble_platform_interface:
     dependency: "direct main"
     description:
-      path: "../reactive_ble_platform_interface"
-      relative: true
-    source: path
+      name: scallop_reactive_ble_platform_interface
+      sha256: "306961032f9d6d57e12664958983ea06d21c335dff9edb6fec3189db67f7add1"
+      url: "https://pub.dev"
+    source: hosted
     version: "5.4.1"
   shelf:
     dependency: transitive

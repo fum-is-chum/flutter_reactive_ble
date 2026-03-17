@@ -1,4 +1,4 @@
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 class DebugLogger implements Logger {
   DebugLogger(

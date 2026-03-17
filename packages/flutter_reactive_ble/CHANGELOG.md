@@ -1,3 +1,7 @@
+## 5.4.1
+
+* Keep package version aligned with `reactive_ble_platform_interface`.
+
 ## 5.4.0
 
 * Support for MacOS #889

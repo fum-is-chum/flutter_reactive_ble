@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 /// A disposable resource whose underlying resource can be replaced by another resource
 /// causing automatic disposal of the previous underlying resource.

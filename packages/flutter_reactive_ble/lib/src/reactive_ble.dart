@@ -2,15 +2,15 @@ import 'dart:async';
 import 'dart:collection';
 import 'dart:io';
 
-import 'package:flutter_reactive_ble/src/connected_device_operation.dart';
-import 'package:flutter_reactive_ble/src/debug_logger.dart';
-import 'package:flutter_reactive_ble/src/device_connector.dart';
-import 'package:flutter_reactive_ble/src/device_scanner.dart';
-import 'package:flutter_reactive_ble/src/discovered_devices_registry.dart';
-import 'package:flutter_reactive_ble/src/rx_ext/repeater.dart';
+import 'package:scallop_flutter_reactive_ble/src/connected_device_operation.dart';
+import 'package:scallop_flutter_reactive_ble/src/debug_logger.dart';
+import 'package:scallop_flutter_reactive_ble/src/device_connector.dart';
+import 'package:scallop_flutter_reactive_ble/src/device_scanner.dart';
+import 'package:scallop_flutter_reactive_ble/src/discovered_devices_registry.dart';
+import 'package:scallop_flutter_reactive_ble/src/rx_ext/repeater.dart';
 import 'package:meta/meta.dart';
-import 'package:reactive_ble_mobile/reactive_ble_mobile.dart';
-import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
+import 'package:scallop_reactive_ble_mobile/reactive_ble_mobile.dart';
+import 'package:scallop_reactive_ble_platform_interface/reactive_ble_platform_interface.dart';
 
 /// [FlutterReactiveBle] is the facade of the library. Its interface allows to
 /// perform all the supported BLE operations.

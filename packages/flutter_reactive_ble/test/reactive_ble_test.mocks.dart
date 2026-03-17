@@ -5,13 +5,13 @@
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'dart:async' as _i4;
 
-import 'package:flutter_reactive_ble/flutter_reactive_ble.dart' as _i3;
-import 'package:flutter_reactive_ble/src/connected_device_operation.dart'
+import 'package:scallop_flutter_reactive_ble/flutter_reactive_ble.dart' as _i3;
+import 'package:scallop_flutter_reactive_ble/src/connected_device_operation.dart'
     as _i5;
-import 'package:flutter_reactive_ble/src/device_connector.dart' as _i6;
-import 'package:flutter_reactive_ble/src/device_scanner.dart' as _i7;
+import 'package:scallop_flutter_reactive_ble/src/device_connector.dart' as _i6;
+import 'package:scallop_flutter_reactive_ble/src/device_scanner.dart' as _i7;
 import 'package:mockito/mockito.dart' as _i1;
-import 'package:reactive_ble_platform_interface/src/models.dart' as _i2;
+import 'package:scallop_reactive_ble_platform_interface/src/models.dart' as _i2;
 
 // ignore_for_file: type=lint
 // ignore_for_file: avoid_redundant_argument_values

@@ -1,3 +1,8 @@
+## 6.0.3 - 2026-04-20
+
+### Changed
+- Update Android `compileSdkVersion` and `targetSdkVersion` to 34 ([45c6468](https://github.com/fum-is-chum/flutter_reactive_ble/commit/45c64688262b328d4e62213fdb4fe383a7bb481a))
+
 ## 6.0.2 - 2026-03-18
 
 ### Fixed
